@@ -6,7 +6,9 @@
 
 ### ✨ Sử dụng VietQR API để tạo mã QR chuyển khoản
 
-### 🔐 *Sign IPA using your own certificate or TrollStore*/ *Tự Kí IPA bằng chứng chỉ cá nhân hoặc từ Trollstore*
+### 🍎 *for IOS:* *Sign IPA using your own certificate or TrollStore*/ *Tự Kí IPA bằng chứng chỉ cá nhân hoặc từ Trollstore*
+
+### 🤖 *for Android: Install APK file/cài file apk*
 
 ### 💖 *Special thanks to CTDOtech for WelcomeFX*
 
@@ -25,5 +27,9 @@
 <br>
 
 <img width="299" height="648" alt="image" src="https://github.com/user-attachments/assets/aa83162a-08af-419f-a6f5-ffc742bec55d" />
+
+<br>
+
+<img width="292" height="648" alt="Screenshot_2026-05-03-03-11-16-413_com miui global packageinstaller" src="https://github.com/user-attachments/assets/bb0bd88e-7463-4c28-ae37-122d6611de14" />
 
 </div>
