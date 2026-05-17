@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Konata VietQR Generator
+#  Konata VietQR Generator (webview)
 
 <br>
 
