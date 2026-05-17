@@ -10,7 +10,7 @@
 
 ### 🤖 *for Android: Install APK file/cài file apk*
 
-### 💖 *Special thanks to CTDOtech for WelcomeFX*
+### 💖 *Contact me if you need source*
 
 <br><br>
 
