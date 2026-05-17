@@ -2,18 +2,10 @@
 
 #  Konata VietQR Generator (webview)
 
-<br>
-
-### <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/qr-code.svg" width="18"> Sử dụng VietQR API để tạo mã QR chuyển khoản
-
-### <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/apple.svg" width="18"> *for IOS:* *Sign IPA using your own certificate or TrollStore* / *Tự Kí IPA bằng chứng chỉ cá nhân hoặc từ TrollStore*
-
-### <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/android2.svg" width="18"> *for Android:* *Install APK file / cài file APK*
-
-### <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/chat-heart.svg" width="18"> *Contact me if you need source*
-
-<br><br>
-
+<img src="https://img.icons8.com/color/48/source-code.png" width="24">
+<img src="https://img.icons8.com/color/48/ios-logo.png" width="24">
+<img src="https://img.icons8.com/color/48/android-os.png" width="24">
+<img src="https://img.icons8.com/color/48/discord-logo.png" width="24">
 ## 📱 Preview
 
 <br>
