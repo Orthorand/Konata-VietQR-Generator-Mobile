@@ -4,13 +4,13 @@
 
 <br>
 
-### ✨ Sử dụng VietQR API để tạo mã QR chuyển khoản
+### <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/qr-code.svg" width="18"> Sử dụng VietQR API để tạo mã QR chuyển khoản
 
-### 🍎 *for IOS:* *Sign IPA using your own certificate or TrollStore*/ *Tự Kí IPA bằng chứng chỉ cá nhân hoặc từ Trollstore*
+### <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/apple.svg" width="18"> *for IOS:* *Sign IPA using your own certificate or TrollStore* / *Tự Kí IPA bằng chứng chỉ cá nhân hoặc từ TrollStore*
 
-### 🤖 *for Android: Install APK file/cài file apk*
+### <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/android2.svg" width="18"> *for Android:* *Install APK file / cài file APK*
 
-### 💖 *Contact me if you need source*
+### <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/chat-heart.svg" width="18"> *Contact me if you need source*
 
 <br><br>
 
